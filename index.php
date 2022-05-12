@@ -6,4 +6,3 @@ require_once("./secretaire.php");
 $al = new Manager('Capone', 'Al', 32);
 
 $sylvie = new Secretaire ("Druand", "Sylvie", 30); 
-
